@@ -6,7 +6,7 @@ entity ent_tb is
   -- Generics
 end ent_tb;
 
-architecture tb_arch of ent_tb is
+architecture testbench of ent_tb is
   component ent is
     port (
       -- ports
@@ -23,4 +23,4 @@ begin
   begin
     -- statements
   end process;
-end tb_arch;
+end testbench;

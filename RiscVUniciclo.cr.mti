@@ -1,101 +1,108 @@
-/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl
+/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity MUX_2_to_1
 -- Compiling architecture RTL of MUX_2_to_1
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity XREG
+-- Compiling architecture RTL of XREG
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
+
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity ULA
 -- Compiling architecture RTL of ULA
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity MD
 -- Compiling architecture RTL of MD
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl {0 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl 
 -- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
 -- Compiling package riscv_components
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(4): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(5): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(6): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(7): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(8): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(14): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(15): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(16): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(22): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(23): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(24): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(25): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(31): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(32): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(33): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(34): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(40): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(41): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(42): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(49): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(50): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(51): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(52): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(58): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(59): (vcom-1136) Unknown identifier "std_logic".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(60): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(61): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(62): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(63): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(64): (vcom-1136) Unknown identifier "std_logic_vector".
-** Error: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(65): (vcom-1136) Unknown identifier "std_logic_vector".
-** Note: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl(69): VHDL Compiler exiting
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {5.0 36.0} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl {1 {vcom -work work -2008 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl {1 {vcom -work work -2008 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2008 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity MI
 -- Compiling architecture RTL of MI
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity SUM
 -- Compiling architecture RTL of SUM
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity PC
 -- Compiling architecture RTL of PC
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl {1 {vcom -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+Start time: 17:26:59 on May 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
 -- Compiling entity mem_rv
 -- Compiling architecture RTL of mem_rv
+End time: 17:26:59 on May 22,2021, Elapsed time: 0:00:00
 
 } {} {}}

@@ -101,3 +101,23 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # 9 compiles, 0 failed with no errors.
+# Errors: 0, Warnings: 0
+# Compile of MD.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of mem.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MI.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MUX_2_to_1.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of SUM.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of ULA.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of XREG.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of riscv_components.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of Control.vhdl was successful.
