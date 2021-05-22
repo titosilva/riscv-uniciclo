@@ -13,12 +13,12 @@ end entity MUX_2_to_1;
 
 architecture RTL of MUX_2_to_1 is
 begin
-  root_proc: process(datain1, datain2, selector) is
+  root_proc: process(datain0, datain1, selector) is
   begin
     case selector is
-      when '0' => dataout <= datain0
-      when '1' => dataout <= datain1
-      when others => dataout <= datain0
+      when '0' => dataout <= datain0;
+      when '1' => dataout <= datain1;
+      when others => dataout <= datain0;
     end case;
   end process root_proc;
 end RTL;

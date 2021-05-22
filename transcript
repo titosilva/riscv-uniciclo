@@ -1,1 +1,103 @@
 # Loading project RiscVUniciclo
+# Errors: 0, Warnings: 0
+# Compile of MD.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of mem.vhdl was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of MI.vhdl failed.
+# Errors: 0, Warnings: 0
+# Compile of MD.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of mem.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MI.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MD.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of mem.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MI.vhdl was successful.
+# Errors: 5, Warnings: 0
+# Errors: 5, Warnings: 0
+# Errors: 5, Warnings: 0
+# Compile of MUX_2_to_1.vhdl failed.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl failed with 3 errors.
+# 4 compiles, 1 failed with 3 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl failed with 13 errors.
+# 8 compiles, 1 failed with 13 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl failed with 4 errors.
+# 8 compiles, 1 failed with 4 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl failed with 31 errors.
+# 9 compiles, 1 failed with 31 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# 9 compiles, 0 failed with no errors.

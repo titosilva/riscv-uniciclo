@@ -1,3 +1,7 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use ieee.numeric_std.all;
+
 package riscv_components is
   component MD is
     port (

@@ -16,10 +16,10 @@ entity XREG is
 end entity XREG;
 
 architecture RTL of XREG is
-  Type mem_type is array (0 to (2**address'length)-1) of std_logic_vector(datain'range);
+  Type mem_type is array (0 to 31) of std_logic_vector(writeData'range);
   signal mem : mem_type;
-  signal read_address1 : unsigned(address'range);
-  signal read_address2 : unsigned(address'range);
+  signal read_address1 : unsigned(4 downto 0);
+  signal read_address2 : unsigned(4 downto 0);
 begin
   root_proc: process(clock) is
   begin
@@ -34,7 +34,7 @@ begin
 
   end process root_proc;
     
-  mem_proc: process(mem, read_address)
+  mem_proc: process(mem, read_address1, read_address2)
   begin
     dataout1 <= mem(to_integer(read_address1));
     dataout2 <= mem(to_integer(read_address2));
