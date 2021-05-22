@@ -5,13 +5,13 @@ use ieee.numeric_std.all;
 library work;
 use work.riscv_components.all;
 
-entity RISCV is
+entity riscv is
   port (
     clock: in std_logic
   );
-end RISCV;
+end riscv;
 
-architecture RTL of ent is
+architecture RTL of riscv is
 begin
   --process
 end RTL;
