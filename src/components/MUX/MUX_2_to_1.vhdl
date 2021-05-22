@@ -4,10 +4,10 @@ use ieee.numeric_std.all;
 
 entity MUX_2_to_1 is
   port (
-    datain0 : in std_logic_vector;
-    datain1 : in std_logic_vector;
+    datain0 : in std_logic_vector(31 downto 0);
+    datain1 : in std_logic_vector(31 downto 0);
     selector : in std_logic;
-    dataout : out std_logic_vector
+    dataout : out std_logic_vector(31 downto 0)
   );
 end entity MUX_2_to_1;
 
