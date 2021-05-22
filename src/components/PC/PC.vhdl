@@ -9,7 +9,7 @@ entity PC is
     datain: in std_logic_vector(31 downto 0);
     dataout: out std_logic_vector(31 downto 0)
   );
-end PC;
+end entity PC;
 
 architecture RTL of PC is
   signal current_value: std_logic_vector(31 downto 0);

@@ -10,7 +10,7 @@ entity ULA is
     Z : out std_logic_vector(WSIZE-1 downto 0);
     zero : out std_logic
   );
-end ULA;
+end entity ULA;
 
 architecture RTL of ULA is
   signal Asigned, Bsigned, Zsigned: signed (WSIZE-1 downto 0);
