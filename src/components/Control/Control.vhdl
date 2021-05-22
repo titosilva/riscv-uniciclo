@@ -27,6 +27,12 @@ begin
         memReg <= '0';
         memWrite <= '0';
         regWrite <= '1';
+      when others =>
+        branch <= '0';  
+        memRead <= '0';
+        memReg <= '0';
+        memWrite <= '0';
+        regWrite <= '1';
     end case;
   end process root_proc;
 end RTL;

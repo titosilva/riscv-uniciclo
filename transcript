@@ -121,3 +121,137 @@
 # Compile of riscv_components.vhdl was successful.
 # Errors: 0, Warnings: 0
 # Compile of Control.vhdl was successful.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl failed with 1 errors.
+# 10 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# 10 compiles, 0 failed with no errors.
+# Errors: 0, Warnings: 0
+# Compile of MD.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of mem.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MI.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of MUX_2_to_1.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of SUM.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of ULA.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of XREG.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of riscv_components.vhdl was successful.
+# Errors: 0, Warnings: 0
+# Compile of Control.vhdl was successful.
+# Errors: 9, Warnings: 1
+# Errors: 9, Warnings: 1
+# Errors: 9, Warnings: 1
+# Compile of tb_PC.vhdl failed.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl was successful with warnings.
+# 11 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl was successful with warnings.
+# 11 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl was successful.
+# 11 compiles, 0 failed with no errors.
+vsim work.pc_tb
+# vsim work.pc_tb 
+# Start time: 18:34:27 on May 22,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.pc_tb(testbench)
+# Loading work.pc(rtl)
+add wave -position end sim:/pc_tb/module/*
+run -all
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of tb_PC.vhdl was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pc_tb(testbench)
+# Loading work.pc(rtl)
+run -all
