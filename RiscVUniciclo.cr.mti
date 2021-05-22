@@ -1,4 +1,13 @@
-/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
+/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MUX_2_to_1
+-- Compiling architecture RTL of MUX_2_to_1
+
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -15,15 +24,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Loading package NUMERIC_STD
 -- Compiling entity Control
 -- Compiling architecture RTL of Control
-
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/tb_PC.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/tb_PC.vhdl
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity PC_tb
--- Compiling architecture testbench of PC_tb
 
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
@@ -42,15 +42,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Loading package NUMERIC_STD
 -- Compiling entity XREG
 -- Compiling architecture RTL of XREG
-
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/tb_MUX_2_to_1.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/tb_MUX_2_to_1.vhdl
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity MUX_2_to_1_tb
--- Compiling architecture testbench of MUX_2_to_1_tb
 
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
