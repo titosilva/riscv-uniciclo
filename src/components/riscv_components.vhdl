@@ -86,7 +86,7 @@ package riscv_components is
   component GenImm32 is
     port (
       instr : in std_logic_vector(31 downto 0);
-      imm32 : out signed(31 downto 0)
+      imm32 : out std_logic_vector(31 downto 0)
     );
   end component GenImm32;
 

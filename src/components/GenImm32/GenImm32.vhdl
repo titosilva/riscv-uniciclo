@@ -5,7 +5,7 @@ use ieee.numeric_std.all;
 entity GenImm32 is
   port (
     instr : in std_logic_vector(31 downto 0);
-    imm32 : out signed(31 downto 0)
+    imm32 : out std_logic_vector(31 downto 0)
   );
 end GenImm32;
 
@@ -32,13 +32,18 @@ begin
   currentTypeProc: process(instr, currentType)
   begin
     case currentType is
-      when I_type => imm32 <= resize(signed(instr(31 downto 20)), 32);
-      when S_type => imm32 <= resize(signed(instr(31 downto 25) & instr(11 downto 7)), 32);
-      when SB_type => imm32 <= resize(signed(instr(31) & instr(7) & instr(30 downto 25) & instr(11 downto 8) & '0'), 32);
-      when UJ_type => imm32 <= resize(signed(instr(31) & instr(19 downto 12) & instr(20) & instr(30 downto 21) & '0'), 32);
-      when U_type => imm32 <= signed(instr(31 downto 12) & x"000");
-      when R_type => imm32 <= to_signed(0, 32);
-      when others => imm32 <= to_signed(0, 32);
+      when I_type => imm32s <= resize(signed(instr(31 downto 20)), 32);
+      when S_type => imm32s <= resize(signed(instr(31 downto 25) & instr(11 downto 7)), 32);
+      when SB_type => imm32s <= resize(signed(instr(31) & instr(7) & instr(30 downto 25) & instr(11 downto 8) & '0'), 32);
+      when UJ_type => imm32s <= resize(signed(instr(31) & instr(19 downto 12) & instr(20) & instr(30 downto 21) & '0'), 32);
+      when U_type => imm32s <= signed(instr(31 downto 12) & x"000");
+      when R_type => imm32s <= to_signed(0, 32);
+      when others => imm32s <= to_signed(0, 32);
     end case;
   end process currentTypeProc;
+
+  output_proc: process(imm32s)
+  begin
+    imm32 <= std_logic_vector(imm32s);
+  end process output_proc;
 end GenImm32_arch;
