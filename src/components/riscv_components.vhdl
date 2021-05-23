@@ -83,4 +83,11 @@ package riscv_components is
     );
   end component XREG;
 
+  component GenImm32 is
+    port (
+      instr : in std_logic_vector(31 downto 0);
+      imm32 : out signed(31 downto 0)
+    );
+  end component GenImm32;
+
 end package riscv_components;
