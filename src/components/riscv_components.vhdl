@@ -3,6 +3,19 @@ use IEEE.std_logic_1164.all;
 use ieee.numeric_std.all;
 
 package riscv_components is
+  component Control is
+    port (
+      opcode: in std_logic_vector(6 downto 0);
+      branch: out std_logic;
+      memRead: out std_logic;
+      memReg: out std_logic;
+      ULAOp: out std_logic_vector(1 downto 0);
+      ULASrc: out std_logic;
+      memWrite: out std_logic;
+      regWrite: out std_logic
+    );
+  end component Control;
+
   component MD is
     port (
       clock : in std_logic;
