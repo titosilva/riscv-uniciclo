@@ -6,7 +6,7 @@ entity MD is
   port (
     clock : in std_logic;
     we : in std_logic;
-    address : in std_logic_vector(7 downto 0);
+    address : in std_logic_vector(31 downto 0);
     datain : in std_logic_vector(31 downto 0);
     dataout : out std_logic_vector(31 downto 0)
   );

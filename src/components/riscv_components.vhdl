@@ -20,7 +20,7 @@ package riscv_components is
     port (
       clock : in std_logic;
       we : in std_logic;
-      address : in std_logic_vector(7 downto 0);
+      address : in std_logic_vector;
       datain : in std_logic_vector(31 downto 0);
       dataout : out std_logic_vector(31 downto 0)
     );
@@ -89,5 +89,14 @@ package riscv_components is
       imm32 : out std_logic_vector(31 downto 0)
     );
   end component GenImm32;
+
+  component ULAControl is
+    port ( 
+      funct7 : in std_logic_vector(6 downto 0);
+      funct3 : in std_logic_vector(2 downto 0);
+      aluop : in std_logic_vector(1 downto 0);
+      aluctr : out std_logic_vector(3 downto 0)
+    );
+  end component;
 
 end package riscv_components;

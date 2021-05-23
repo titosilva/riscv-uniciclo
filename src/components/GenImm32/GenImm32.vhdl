@@ -13,6 +13,7 @@ architecture GenImm32_arch of GenImm32 is
   type FORMAT_RV is ( R_type, I_type, S_type, SB_type, UJ_type, U_type );
   signal opcode: std_logic_vector(7 downto 0);
   signal currentType: FORMAT_RV;
+  signal imm32s: signed(31 downto 0);
 begin
   opcode <= '0' & instr(6 downto 0);
 

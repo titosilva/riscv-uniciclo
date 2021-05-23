@@ -1,137 +1,4 @@
 # Loading project RiscVUniciclo
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 1, Warnings: 0
-# Errors: 1, Warnings: 0
-# Errors: 1, Warnings: 0
-# Compile of MI.vhdl failed.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 5, Warnings: 0
-# Errors: 5, Warnings: 0
-# Errors: 5, Warnings: 0
-# Compile of MUX_2_to_1.vhdl failed.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl failed with 3 errors.
-# 4 compiles, 1 failed with 3 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# 4 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# 5 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# 6 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# 7 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl failed with 13 errors.
-# 8 compiles, 1 failed with 13 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl failed with 4 errors.
-# 8 compiles, 1 failed with 4 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# 8 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl failed with 31 errors.
-# 9 compiles, 1 failed with 31 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# 9 compiles, 0 failed with no errors.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of SUM.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of ULA.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of XREG.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of riscv_components.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of Control.vhdl was successful.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl failed with 1 errors.
-# 10 compiles, 1 failed with 1 error.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -142,31 +9,13 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# 10 compiles, 0 failed with no errors.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of SUM.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of ULA.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of XREG.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of riscv_components.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of Control.vhdl was successful.
-# Errors: 9, Warnings: 1
-# Errors: 9, Warnings: 1
-# Errors: 9, Warnings: 1
-# Compile of tb_PC.vhdl failed.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -177,8 +26,13 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl failed with 1 errors.
-# 11 compiles, 1 failed with 1 error.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -189,8 +43,13 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl failed with 1 errors.
-# 11 compiles, 1 failed with 1 error.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -201,8 +60,13 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful with warnings.
-# 11 compiles, 0 failed with no errors.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -213,8 +77,13 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful with warnings.
-# 11 compiles, 0 failed with no errors.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -225,19 +94,320 @@
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# 11 compiles, 0 failed with no errors.
-vsim work.pc_tb
-# vsim work.pc_tb 
-# Start time: 18:34:27 on May 22,2021
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl failed with 17 errors.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 2 failed with 18 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# 16 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl failed with 1 errors.
+# 17 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+vsim work.riscv_tb
+# vsim work.riscv_tb 
+# Start time: 10:57:49 on May 23,2021
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.numeric_std(body)
-# Loading work.pc_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
 # Loading work.pc(rtl)
-add wave -position end sim:/pc_tb/module/*
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
+add wave -position end sim:/riscv_tb/module/*
 run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Fatal: (vsim-3734) Index value 0 is out of range 0 to -1 (null array).
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MD_i/internalMem/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl line 34
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl 34 Process mem_proc
+# 
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -248,280 +418,41 @@ run -all
 # Compile of XREG.vhdl was successful.
 # Compile of riscv_components.vhdl was successful.
 # Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# 11 compiles, 0 failed with no errors.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.pc_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
 # Loading work.pc(rtl)
-run -all
-quit -sim
-# End time: 19:23:19 on May 22,2021, Elapsed time: 0:48:52
-# Errors: 0, Warnings: 1
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of SUM.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of ULA.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of XREG.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of riscv_components.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of Control.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of tb_PC.vhdl was successful.
-# Errors: 4, Warnings: 0
-# Errors: 4, Warnings: 0
-# Errors: 4, Warnings: 0
-# Compile of tb_MUX_2_to_1.vhdl failed.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl failed with 3 errors.
-# 12 compiles, 1 failed with 3 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl failed with 3 errors.
-# 12 compiles, 1 failed with 3 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl failed with 2 errors.
-# 12 compiles, 1 failed with 2 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl was successful.
-# 12 compiles, 0 failed with no errors.
-vsim work.mux_2_to_1_tb
-# vsim work.mux_2_to_1_tb 
-# Start time: 19:26:20 on May 22,2021
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.mux_2_to_1_tb(testbench)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
 # Loading work.mux_2_to_1(rtl)
-add wave -position end sim:/mux_2_to_1_tb/*
-run -all
-add wave -position end sim:/mux_2_to_1_tb/module/*
-add wave -position end sim:/mux_2_to_1_tb/module/root_proc/*
-# ** UI-Msg: (vish-4014) No objects found matching '/mux_2_to_1_tb/module/root_proc/*'.
-add wave -position end sim:/mux_2_to_1_tb/test_handler/*
-# ** UI-Msg: (vish-4014) No objects found matching '/mux_2_to_1_tb/test_handler/*'.
-restart
-# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl was successful.
-# 12 compiles, 0 failed with no errors.
-add wave -position end sim:/mux_2_to_1_tb/module/*
-add wave -position end sim:/mux_2_to_1_tb/*
-quit -sim
-# End time: 19:28:39 on May 22,2021, Elapsed time: 0:02:19
-# Errors: 0, Warnings: 2
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of tb_PC.vhdl was successful.
-# Compile of tb_MUX_2_to_1.vhdl was successful.
-# 12 compiles, 0 failed with no errors.
-vsim work.mux_2_to_1_tb
-# vsim work.mux_2_to_1_tb 
-# Start time: 19:28:53 on May 22,2021
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.mux_2_to_1_tb(testbench)
-# Loading work.mux_2_to_1(rtl)
-add wave -position end sim:/mux_2_to_1_tb/module/*
-run -all
-quit -sim
-# End time: 19:37:20 on May 22,2021, Elapsed time: 0:08:27
-# Errors: 0, Warnings: 2
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# 12 compiles, 0 failed with no errors.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of SUM.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of ULA.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of XREG.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of riscv_components.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of Control.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC_tb.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MD.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of mem.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MI.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of SUM.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of ULA.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of XREG.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of riscv_components.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of Control.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of PC_tb.vhdl was successful.
-# Errors: 0, Warnings: 0
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Errors: 4, Warnings: 0
-# Errors: 4, Warnings: 0
-# Errors: 4, Warnings: 0
-# Compile of SUM_tb.vhdl failed.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# 13 compiles, 0 failed with no errors.
-vsim work.sum_tb
-# vsim work.sum_tb 
-# Start time: 19:54:57 on May 22,2021
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.sum_tb(testbench)
-# Loading work.sum(rtl)
-add wave -position end sim:/sum_tb/module/*
-run -all
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl failed with 1 errors.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# 13 compiles, 1 failed with 1 error.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# 13 compiles, 0 failed with no errors.
-restart
-# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.sum_tb(testbench)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
 # Loading work.sum(rtl)
 run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Fatal: (vsim-3734) Index value 0 is out of range 0 to -1 (null array).
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MD_i/internalMem/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl line 34
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl 34 Process mem_proc
+# 
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -535,141 +466,90 @@ run -all
 # Compile of PC_tb.vhdl was successful.
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
-# 13 compiles, 0 failed with no errors.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.sum_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
 # Loading work.sum(rtl)
 run -all
-quit -sim
-# End time: 21:36:05 on May 22,2021, Elapsed time: 1:41:08
-# Errors: 0, Warnings: 1
-vsim work.mux_2_to_1_tb
-# vsim work.mux_2_to_1_tb 
-# Start time: 21:36:14 on May 22,2021
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.mux_2_to_1_tb(testbench)
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Fatal: (vsim-3734) Index value 0 is out of range 0 to -1 (null array).
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MD_i/internalMem/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl line 34
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl 34 Process mem_proc
+# 
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
 # Loading work.mux_2_to_1(rtl)
-add wave -position end sim:/mux_2_to_1_tb/module/*
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
 run -all
-quit -sim
-# End time: 21:59:41 on May 22,2021, Elapsed time: 0:23:27
-# Errors: 0, Warnings: 2
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl failed with 2 errors.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 1 failed with 2 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl failed with 2 errors.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 1 failed with 2 errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
-# Compile of MD.vhdl was successful.
-# Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
-# Compile of MUX_2_to_1.vhdl was successful.
-# Compile of PC.vhdl was successful.
-# Compile of SUM.vhdl was successful.
-# Compile of ULA.vhdl was successful.
-# Compile of XREG.vhdl was successful.
-# Compile of riscv_components.vhdl was successful.
-# Compile of Control.vhdl was successful.
-# Compile of PC_tb.vhdl was successful.
-# Compile of MUX_2_to_1_tb.vhdl was successful.
-# Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
-vsim work.xreg_tb
-# vsim work.xreg_tb 
-# Start time: 23:37:21 on May 22,2021
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.xreg_tb(testbench)
-# Loading work.xreg(rtl)
-add wave -position end sim:/xreg_tb/module/*
-run -all
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Fatal: (vsim-3734) Index value 0 is out of range 0 to -1 (null array).
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MI_i/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl line 51
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl 51 Process mem_proc
+# 
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
-# Compile of MI.vhdl was successful.
+# Compile of MI.vhdl failed with 1 errors.
 # Compile of MUX_2_to_1.vhdl was successful.
 # Compile of PC.vhdl was successful.
 # Compile of SUM.vhdl was successful.
@@ -680,8 +560,29 @@ run -all
 # Compile of PC_tb.vhdl was successful.
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
-# Compile of XREG_tb.vhdl failed with 6 errors.
-# 14 compiles, 1 failed with 6 errors.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl failed with 1 errors.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 1 failed with 1 error.
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -696,38 +597,37 @@ run -all
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
 # Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.xreg_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
 # Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
 run -all
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Fatal: (vsim-3734) Index value 0 is out of range 0 to -1 (null array).
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MD_i/internalMem/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl line 34
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/mem.vhdl 34 Process mem_proc
+# 
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -742,38 +642,27 @@ run -all
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
 # Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.xreg_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
 # Loading work.xreg(rtl)
-run -all
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
-#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
-# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -788,14 +677,46 @@ run -all
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
 # Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.xreg_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
 # Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
 run -all
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: (vsim-7) Failed to open VHDL file "./src/hex_instructions.txt" in r mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Fatal: (vsim-7) Failed to open VHDL file "./src/hex_instructions.txt" in r mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ps  Iteration: 0  Process: /riscv_tb/module/MI_i/init_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
+# Fatal error in Subprogram init_mem_hex at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl line 29
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl 29 Subprogram init_mem_hex
+# called from  /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl 39 Process init_proc
+# 
 # Compile of MD.vhdl was successful.
 # Compile of mem.vhdl was successful.
 # Compile of MI.vhdl was successful.
@@ -810,11 +731,616 @@ run -all
 # Compile of MUX_2_to_1_tb.vhdl was successful.
 # Compile of SUM_tb.vhdl was successful.
 # Compile of XREG_tb.vhdl was successful.
-# 14 compiles, 0 failed with no errors.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# Loading work.xreg_tb(testbench)
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
 # Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
 run -all
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
-#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Fatal: (vsim-3734) Index value 32 is out of range 0 to 31.
+#    Time: 850 ns  Iteration: 1  Process: /riscv_tb/module/MI_i/mem_proc File: /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
+# Fatal error in Process mem_proc at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl line 51
+# 
+# HDL call sequence:
+# Stopped at /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl 51 Process mem_proc
+# 
+add wave -position end sim:/riscv_tb/module/MI_i/*
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl failed with 1 errors.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 1 failed with 1 error.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful with warnings.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful with warnings.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+run -all
+add wave -position end sim:/riscv_tb/module/MI_i/*
+add wave -position end sim:/riscv_tb/module/*
+add wave -position 23 sim:/riscv_tb/module/MI_i/*
+add wave -position 29 sim:/riscv_tb/module/MI_i/mem_proc/*
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/module/MI_i/mem_proc/*'.
+# WARNING: No extended dataflow license exists
+add wave -position end sim:/riscv_tb/module/Control_i/*
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# ** Warning: (vsim-3473) Component instance "ULAControl_i : ULAControl" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module File: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.mem_rv(rtl)
+# Loading work.sum(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i/internalMem
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 2950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 3950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 6950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 7950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 8950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9050 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9150 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9250 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9350 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9450 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9550 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9650 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9750 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9850 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 9950 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i

@@ -13,10 +13,11 @@ architecture testbench of riscv_tb is
     );
   end component riscv;
 
-  signal clock : std_logic = '0';
-  signal finished: std_logic = '0';
+  signal period: time := 100 ns;
+  signal clock : std_logic := '0';
+  signal finished: std_logic := '0';
 begin
-  clock <= not clock after 5 ns when not finished;
+  clock <= not clock after period/2 when finished = '0' else '0';
 
   module: riscv port map(
     clock => clock
@@ -24,7 +25,7 @@ begin
 
   test_handler: process
   begin
-    wait for 5 ns;
+    wait for 100*period;
     finished <= '1';
     wait;
   end process;

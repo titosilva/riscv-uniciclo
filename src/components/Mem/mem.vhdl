@@ -13,7 +13,7 @@ entity mem_rv is
 end entity mem_rv;
 
 architecture RTL of mem_rv is
-  Type mem_type is array (0 to (2**address'length)-1) of std_logic_vector(datain'range);
+  Type mem_type is array (0 to 32) of std_logic_vector(datain'range);
   signal mem : mem_type;
   signal read_address : unsigned(address'range);
 begin
