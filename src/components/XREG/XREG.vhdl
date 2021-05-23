@@ -31,12 +31,20 @@ begin
       read_address1 <= unsigned(address1);
       read_address2 <= unsigned(address2);
     end if;
-
   end process root_proc;
     
   mem_proc: process(mem, read_address1, read_address2)
   begin
-    dataout1 <= mem(to_integer(read_address1));
-    dataout2 <= mem(to_integer(read_address2));
+    case read_address1 is
+      when "00000" => dataout1 <= std_logic_vector(to_signed(0, 32));
+      when "UUUUU" => dataout1 <= std_logic_vector(to_signed(0, 32));
+      when others => dataout1 <= mem(to_integer(read_address1));
+    end case;
+
+    case read_address2 is
+      when "00000" => dataout2 <= std_logic_vector(to_signed(0, 32));
+      when "UUUUU" => dataout2 <= std_logic_vector(to_signed(0, 32));
+      when others => dataout2 <= mem(to_integer(read_address2));
+    end case;
   end process mem_proc;
 end RTL;

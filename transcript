@@ -541,3 +541,280 @@ restart
 # Loading work.sum_tb(testbench)
 # Loading work.sum(rtl)
 run -all
+quit -sim
+# End time: 21:36:05 on May 22,2021, Elapsed time: 1:41:08
+# Errors: 0, Warnings: 1
+vsim work.mux_2_to_1_tb
+# vsim work.mux_2_to_1_tb 
+# Start time: 21:36:14 on May 22,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mux_2_to_1_tb(testbench)
+# Loading work.mux_2_to_1(rtl)
+add wave -position end sim:/mux_2_to_1_tb/module/*
+run -all
+quit -sim
+# End time: 21:59:41 on May 22,2021, Elapsed time: 0:23:27
+# Errors: 0, Warnings: 2
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl failed with 2 errors.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 1 failed with 2 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl failed with 2 errors.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 1 failed with 2 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+vsim work.xreg_tb
+# vsim work.xreg_tb 
+# Start time: 23:37:21 on May 22,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.xreg_tb(testbench)
+# Loading work.xreg(rtl)
+add wave -position end sim:/xreg_tb/module/*
+run -all
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl failed with 6 errors.
+# 14 compiles, 1 failed with 6 errors.
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.xreg_tb(testbench)
+# Loading work.xreg(rtl)
+run -all
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.xreg_tb(testbench)
+# Loading work.xreg(rtl)
+run -all
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 12 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 28 ns  Iteration: 1  Instance: /xreg_tb/module
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.xreg_tb(testbench)
+# Loading work.xreg(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
+# Compile of MD.vhdl was successful.
+# Compile of mem.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# 14 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.xreg_tb(testbench)
+# Loading work.xreg(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 4 ns  Iteration: 0  Instance: /xreg_tb/module
