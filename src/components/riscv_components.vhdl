@@ -20,6 +20,7 @@ package riscv_components is
     port (
       clock : in std_logic;
       we : in std_logic;
+      re : in std_logic;
       address : in std_logic_vector;
       datain : in std_logic_vector(31 downto 0);
       dataout : out std_logic_vector(31 downto 0)

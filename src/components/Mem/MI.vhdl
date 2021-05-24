@@ -13,7 +13,7 @@ end entity MI;
 
 architecture RTL of MI is
   Type mem_type is array (0 to 2**12-1) of std_logic_vector(31 downto 0);
-  signal mem : mem_type;
+  signal mem : mem_type := (others => (others => '0'));
   signal read_address : unsigned(11 downto 0);
   signal initialize : std_logic;
 begin
@@ -21,7 +21,7 @@ begin
   init_proc: process(initialize) is
     -- Function to read from file
     impure function init_mem_hex return mem_type is
-      file text_file : text open read_mode is "./src/components/Mem/hex_instructions.txt";
+      file text_file : text open read_mode is "./uniciclo_hex.txt";
       variable text_line : line;
       variable mem_content : mem_type;
       variable i : integer := 0;
@@ -48,6 +48,6 @@ begin
     
   mem_proc: process(mem, read_address)
   begin
-    dataout <= mem(to_integer(read_address));
+    dataout <= mem(to_integer(read_address)/4);
   end process mem_proc;
 end RTL;

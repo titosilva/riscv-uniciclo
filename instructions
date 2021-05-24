@@ -17,6 +17,8 @@ SLTi,
 BEQ, 
 BNE, 
 BLT, 
-BGE 
+BGE,
+LUI,
 
-LUI, 
+JAL
+JALR

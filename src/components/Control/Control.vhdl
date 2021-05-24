@@ -30,7 +30,7 @@ begin
         branch <= '0';
         ULAOp <= "10";
       -- I-type
-      when "0000011" =>
+      when "0010011" =>
         ULASrc <= '1';
         memReg <= '0';
         regWrite <= '1';
@@ -47,6 +47,33 @@ begin
         memWrite <= '0';
         branch <= '1';
         ULAOp <= "01";
+      -- LUI
+      when "0110111" => 
+        ULASrc <= '1';
+        memReg <= '0';
+        regWrite <= '1';
+        memRead <= '0';
+        memWrite <= '0';
+        branch <= '0';
+        ULAOp <= "00";
+      -- lw
+      when "0000011" =>
+        ULASrc <= '1';
+        memReg <= '1';
+        regWrite <= '1';
+        memRead <= '1';
+        memWrite <= '0';
+        branch <= '0';
+        ULAOp <= "00";
+      -- sw
+      when "0100011" => 
+        ULASrc <= '1';
+        memReg <= '1';
+        regWrite <= '0';
+        memRead <= '0';
+        memWrite <= '1';
+        branch <= '0';
+        ULAOp <= "00";
       when others =>
         ULASrc <= '0';
         memReg <= '0';

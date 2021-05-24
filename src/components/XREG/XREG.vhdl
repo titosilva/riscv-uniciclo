@@ -17,7 +17,7 @@ end entity XREG;
 
 architecture RTL of XREG is
   Type mem_type is array (0 to 31) of std_logic_vector(writeData'range);
-  signal mem : mem_type;
+  signal mem : mem_type := (others => (others => '0'));
   signal read_address1 : unsigned(4 downto 0);
   signal read_address2 : unsigned(4 downto 0);
 begin

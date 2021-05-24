@@ -104,6 +104,7 @@ begin
   MD_i: MD port map (
     clock => clock,
     we => memWrite,
+    re => memRead,
     address => ULAResult,
     datain => rs2,
     dataout => MDOut
