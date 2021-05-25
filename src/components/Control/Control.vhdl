@@ -37,7 +37,7 @@ begin
         memRead <= '0';
         memWrite <= '0';
         branch <= '0';
-        ULAOp <= "10";
+        ULAOp <= "11";
       -- B-type
       when "1100011" =>
         ULASrc <= '0';

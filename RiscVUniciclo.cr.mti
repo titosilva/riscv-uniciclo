@@ -16,6 +16,15 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Compiling entity MUX_2_to_1
 -- Compiling architecture RTL of MUX_2_to_1
 
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl {1 {vcom -work work -2008 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MD
+-- Compiling architecture RTL of MD
+
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl {2 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
 -- Loading package STANDARD
@@ -26,15 +35,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Compiling entity riscv
 -- Compiling architecture RTL of riscv
 ** Warning: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl(123): (vcom-1191) Type conversion on actual associated with formal "datain1" must be a constrained array subtype.
-
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity Control
--- Compiling architecture RTL of Control
 
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020

@@ -25,7 +25,7 @@ begin
 
   test_handler: process
   begin
-    wait for 20*period;
+    wait for 21*period;
     finished <= '1';
     wait;
   end process;
