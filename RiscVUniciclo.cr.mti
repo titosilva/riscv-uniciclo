@@ -107,15 +107,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Compiling entity PC_tb
 -- Compiling architecture testbench of PC_tb
 
-} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity GenImm32
--- Compiling architecture GenImm32_arch of GenImm32
-
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1_tb.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1_tb.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
 -- Loading package STANDARD
@@ -124,6 +115,15 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Loading package NUMERIC_STD
 -- Compiling entity MUX_2_to_1_tb
 -- Compiling architecture testbench of MUX_2_to_1_tb
+
+} {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity GenImm32
+-- Compiling architecture GenImm32_arch of GenImm32
 
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl {1 {vcom -work work -2008 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020

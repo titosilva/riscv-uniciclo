@@ -18,33 +18,32 @@ end entity XREG;
 architecture RTL of XREG is
   Type mem_type is array (0 to 31) of std_logic_vector(writeData'range);
   signal mem : mem_type := (others => (others => '0'));
-  signal read_address1 : unsigned(4 downto 0);
-  signal read_address2 : unsigned(4 downto 0);
+  signal trigger : std_logic := '0';
 begin
   root_proc: process(clock) is
   begin
-    if (clock'event and clock='1') then
+    if (rising_edge(clock)) then
+      -- Escrita não deve ser atrasada
       if we = '1' then
         mem(to_integer(unsigned(addressWrite))) <= writeData;
       end if;
 
-      read_address1 <= unsigned(address1);
-      read_address2 <= unsigned(address2);
+      trigger <= not trigger after 2 ns;
     end if;
   end process root_proc;
-    
-  mem_proc: process(mem, read_address1, read_address2)
+      
+  mem_proc: process(mem, trigger)
   begin
-    case read_address1 is
+    case address1 is
       when "00000" => dataout1 <= std_logic_vector(to_signed(0, 32));
       when "UUUUU" => dataout1 <= std_logic_vector(to_signed(0, 32));
-      when others => dataout1 <= mem(to_integer(read_address1));
+      when others => dataout1 <= mem(to_integer(unsigned(address1)));
     end case;
 
-    case read_address2 is
+    case address2 is
       when "00000" => dataout2 <= std_logic_vector(to_signed(0, 32));
       when "UUUUU" => dataout2 <= std_logic_vector(to_signed(0, 32));
-      when others => dataout2 <= mem(to_integer(read_address2));
+      when others => dataout2 <= mem(to_integer(unsigned(address2)));
     end case;
   end process mem_proc;
 end RTL;

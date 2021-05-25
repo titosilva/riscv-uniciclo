@@ -12,13 +12,18 @@ entity PC is
 end entity PC;
 
 architecture RTL of PC is
-  signal current_value: std_logic_vector(31 downto 0) := std_logic_vector(to_signed(0, 32));
+  signal current_value: std_logic_vector(31 downto 0);
 begin
   root_proc: process(clock) is
   begin
-    if(clock'event and clock = '1' and we = '1')
+    if(rising_edge(clock) and we = '1')
     then
-      current_value <= datain;
+      if current_value(0) = 'U' then
+        -- Inicialização
+        current_value <= std_logic_vector(to_unsigned(0, 32));
+      else
+        current_value <= datain;
+      end if;
     end if;
   end process root_proc;
 
