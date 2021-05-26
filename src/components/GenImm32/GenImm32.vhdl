@@ -12,10 +12,12 @@ end GenImm32;
 architecture GenImm32_arch of GenImm32 is
   type FORMAT_RV is ( R_type, I_type, S_type, SB_type, UJ_type, U_type );
   signal opcode: std_logic_vector(7 downto 0);
+  signal funct3: std_logic_vector(2 downto 0);
   signal currentType: FORMAT_RV;
   signal imm32s: signed(31 downto 0);
 begin
   opcode <= '0' & instr(6 downto 0);
+  funct3 <= instr(14 downto 12);
 
   opcodeProc: process(instr, opcode)
   begin
@@ -33,7 +35,11 @@ begin
   currentTypeProc: process(instr, currentType)
   begin
     case currentType is
-      when I_type => imm32s <= resize(signed(instr(31 downto 20)), 32);
+      when I_type => 
+        case funct3 is
+          when "001" | "101" => imm32s <= resize(signed('0' & instr(24 downto 20)), 32);
+          when others => imm32s <= resize(signed(instr(31 downto 20)), 32);
+        end case;
       when S_type => imm32s <= resize(signed(instr(31 downto 25) & instr(11 downto 7)), 32);
       when SB_type => imm32s <= resize(signed(instr(31) & instr(7) & instr(30 downto 25) & instr(11 downto 8) & '0'), 32);
       when UJ_type => imm32s <= resize(signed(instr(31) & instr(19 downto 12) & instr(20) & instr(30 downto 21) & '0'), 32);

@@ -4616,3 +4616,130 @@ run -all
 #    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
 # ** Note: writable_mem read
 #    Time: 753 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# Compile of MD.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# Compile of ULAControl.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# Loading work.ulacontrol(rtl)
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.sum(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Note: initialized_mem read
+#    Time: 353 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: initialized_mem read
+#    Time: 453 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: writable_mem written
+#    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: writable_mem read
+#    Time: 753 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+add wave -position end sim:/riscv_tb/module/GenImm32_i/*
+# Compile of MD.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl failed with 3 errors.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# Compile of ULAControl.vhdl was successful.
+# 17 compiles, 1 failed with 3 errors.
+# Compile of MD.vhdl was successful.
+# Compile of MI.vhdl was successful.
+# Compile of MUX_2_to_1.vhdl was successful.
+# Compile of PC.vhdl was successful.
+# Compile of SUM.vhdl was successful.
+# Compile of ULA.vhdl was successful.
+# Compile of XREG.vhdl was successful.
+# Compile of riscv_components.vhdl was successful.
+# Compile of Control.vhdl was successful.
+# Compile of PC_tb.vhdl was successful.
+# Compile of MUX_2_to_1_tb.vhdl was successful.
+# Compile of SUM_tb.vhdl was successful.
+# Compile of XREG_tb.vhdl was successful.
+# Compile of GenImm32.vhdl was successful.
+# Compile of riscv.vhdl was successful with warnings.
+# Compile of tb_riscv.vhdl was successful.
+# Compile of ULAControl.vhdl was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.riscv_tb(testbench)
+# Loading work.riscv_components
+# Loading work.riscv(rtl)
+# Loading work.pc(rtl)
+# Loading work.mi(rtl)
+# Loading work.control(rtl)
+# Loading work.xreg(rtl)
+# Loading work.genimm32(genimm32_arch)
+# Loading work.mux_2_to_1(rtl)
+# Loading work.ulacontrol(rtl)
+# Loading work.ula(rtl)
+# Loading work.md(rtl)
+# Loading work.sum(rtl)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/module/MI_i
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /riscv_tb/module/ULA_i
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 0  Instance: /riscv_tb/module/XREG_i
+# ** Note: initialized_mem read
+#    Time: 353 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: initialized_mem read
+#    Time: 453 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: writable_mem written
+#    Time: 750 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i
+# ** Note: writable_mem read
+#    Time: 753 ns  Iteration: 0  Instance: /riscv_tb/module/MD_i

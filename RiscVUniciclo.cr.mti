@@ -34,7 +34,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Ap
 -- Loading package riscv_components
 -- Compiling entity riscv
 -- Compiling architecture RTL of riscv
-** Warning: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl(126): (vcom-1191) Type conversion on actual associated with formal "datain1" must be a constrained array subtype.
+** Warning: /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl(127): (vcom-1191) Type conversion on actual associated with formal "datain1" must be a constrained array subtype.
 
 } {} {}} /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl {1 {vcom -work work -2002 -explicit -stats=none /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
