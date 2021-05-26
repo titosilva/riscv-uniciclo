@@ -12,7 +12,9 @@ package riscv_components is
       ULAOp: out std_logic_vector(1 downto 0);
       ULASrc: out std_logic;
       memWrite: out std_logic;
-      regWrite: out std_logic
+      regWrite: out std_logic;
+      is_jalx: out std_logic;
+      is_jalr: out std_logic
     );
   end component Control;
 

@@ -32,11 +32,14 @@ architecture RTL of riscv is
   signal ULAResult: std_logic_vector(31 downto 0);
   signal ULAZero: std_logic;
   signal MDOut: std_logic_vector(31 downto 0);
-  signal memRegOut: std_logic_vector(31 downto 0);
   signal PC_SUM_4Result: std_logic_vector(31 downto 0);
   signal PC_SUM_SHIFTResult: std_logic_vector(31 downto 0);
   signal branchAndULAZero: std_logic;
   signal imm32shifted: std_logic_vector(31 downto 0);
+  signal is_jalx : std_logic;
+  signal is_jalr : std_logic;
+  signal writeBackData: std_logic_vector(31 downto 0);
+  signal PC_SUM_SHIFTInput: std_logic_vector(31 downto 0);
 begin
   PC_i: PC port map(
     clock => clock,
@@ -59,7 +62,9 @@ begin
     ULAOp => ULAOp,
     ULASrc => ULASrc,
     memWrite => memWrite,
-    regWrite => regWrite
+    regWrite => regWrite,
+    is_jalx => is_jalx,
+    is_jalr => is_jalr
   );
 
   XREG_i: XREG port map (
@@ -114,9 +119,8 @@ begin
     datain0 => ULAResult,
     datain1 => MDOut,
     selector => memReg,
-    dataout => memRegOut
+    dataout => writeBackData
   );
-  regWriteData <= memRegOut;
 
   PC_SUM_4: SUM port map (
     datain0 => instrAddress,
@@ -125,12 +129,12 @@ begin
   );
 
   PC_SUM_SHIFT: SUM port map (
-    datain0 => instrAddress,
-    datain1 => imm32shifted,
+    datain0 => PC_SUM_SHIFTInput,
+    datain1 => imm32,
     dataout => PC_SUM_SHIFTResult
   );
 
-  branchAndULAZero <= branch and ULAZero;
+  branchAndULAZero <= (branch and ULAZero) or (is_jalx);
   PC_MUX: MUX_2_to_1 port map (
     datain0 => PC_SUM_4Result,
     datain1 => PC_SUM_SHIFTResult,
@@ -142,4 +146,23 @@ begin
   begin
     imm32shifted <= std_logic_vector(shift_left(signed(imm32), 1));
   end process imm32shift_proc;
+
+  -- JAL e JALR ---------------------------------------------------
+  -- Seleciona a entrada para o banco de registradores
+  -- Caso a operação seja um JAL, é necessário salvar o endereço de retorno
+  JAL_RETURN_SAVE_MUX: MUX_2_to_1 port map (
+    datain0 => writeBackData,
+    datain1 => PC_SUM_4Result,
+    selector => is_jalx,
+    dataout => regWriteData
+  );
+
+  -- Seleciona a entrada para o somador de PC com imediato
+  -- Caso a operação seja um JALR, é necessário somar o valor em rs1 com o imediato
+  JALR_RS1_MUX: MUX_2_to_1 port map (
+    datain0 => instrAddress,
+    datain1 => rs1,
+    selector => is_jalr,
+    dataout => PC_SUM_SHIFTInput
+  );
 end RTL;

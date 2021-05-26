@@ -31,20 +31,20 @@ vetx:	.word 15 63
 	sltu s3, zero, t0       # 0000004c  005039b3   00000001  00000000 OK
 	sltu s4, t0, zero       # 00000050  0002ba33   00000000  00000000 OK
 	
-	jal  ra, testasub       # 00000054  008000ef   00000000  00000000 => 5c
+	jal  ra, testasub       # 00000054  008000ef   00000000  00000000 => 5c -> Algum problema com imediatos deslocados. Retirei o shift. OK!
 
-	jal  x0, next           # 00000058  00c0006f   00000000  00000000 => 64
+	jal  x0, next           # 00000058  00c0006f   00000000  00000000 => 64 OK!
 testasub:
-	sub t3, t0, t1          # 0000005c  40628e33   fffffffe  00000000 
-	jalr x0, ra, 0          # 00000060  00008067   00000058  00000000 => 58
+	sub t3, t0, t1          # 0000005c  40628e33   fffffffe  00000000 -> Verificar saida da ULA
+	jalr x0, ra, 0          # 00000060  00008067   00000058  00000000 => 58 OK!
 next:
-	addi t0, zero, -2       # 00000064  ffe00293   fffffffe  00000000
+	addi t0, zero, -2       # 00000064  ffe00293   fffffffe  00000000 OK!
 beqsim: 
-	addi t0, t0, 2          # 00000068  00228293   0000000*  00000000 * t0 = 0, 2
-	beq  t0, zero, beqsim   # 0000006c  fe028ee3   00000000  00000000 => 68, 70
+	addi t0, t0, 2          # 00000068  00228293   0000000*  00000000 * t0 = 0(OK), 2(OK)
+	beq  t0, zero, beqsim   # 0000006c  fe028ee3   00000000  00000000 => 68(OK), 70(OK)
 bnesim:
-	addi t0, t0, -1         # 00000070  fff28293   0000000*  00000000 * t0 = 1, 0
-	bne  t0, zero, bnesim   # 00000074  fe029ee3   00000000  00000000 => 70, 78
+	addi t0, t0, -1         # 00000070  fff28293   0000000*  00000000 * t0 = 1(OK), 0
+	bne  t0, zero, bnesim   # 00000074  fe029ee3   00000000  00000000 => 70, 78 -> Falhou
 	
 	
 	

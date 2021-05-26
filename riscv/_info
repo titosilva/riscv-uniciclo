@@ -10,23 +10,23 @@ z2
 cModel Technology
 d/home/ratchet/Documents/prog/riscvhdl/Mem-proj
 Econtrol
-Z0 w1621969118
+Z0 w1621974543
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 4384
+!i122 4605
 Z4 d/home/ratchet/Documents/prog/riscv-uniciclo
 Z5 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl
 Z6 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl
 l0
 L5 1
-VoL3Z8mM=[PcWg>iA3FVn91
-!s100 ?kVn3jH[AOGIl2^=3g;jd2
+V<[S1GKR:YJ>JVllX4mkn<2
+!s100 l18<]hAAeR<@]RfcbGE5l1
 Z7 OV;C;2020.1_3;71
 32
-Z8 !s110 1621972062
+Z8 !s110 1622033729
 !i10b 1
-Z9 !s108 1621972062.000000
+Z9 !s108 1622033729.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl|
 Z11 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Control/Control.vhdl|
 !i113 1
@@ -36,12 +36,12 @@ Artl
 R1
 R2
 R3
-DEx4 work 7 control 0 22 oL3Z8mM=[PcWg>iA3FVn91
-!i122 4384
-l19
-L18 70
-VCLF244Dze=39_[A_E04@_0
-!s100 0d>ZojJLQa6bH<AF1Xnef1
+DEx4 work 7 control 0 22 <[S1GKR:YJ>JVllX4mkn<2
+!i122 4605
+l21
+L20 104
+VHJVnFG`em=kOYRd5>bHRb0
+!s100 Ni=OFH6JIDR29?T0n4@9@3
 R7
 32
 R8
@@ -53,11 +53,11 @@ R11
 R12
 R13
 Egenimm32
-Z14 w1621775954
+Z14 w1621993430
 R1
 R2
 R3
-!i122 4389
+!i122 4610
 R4
 Z15 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl
 Z16 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl
@@ -67,11 +67,11 @@ VVk<5h^Gjj:GIZJbcN0d^W0
 !s100 S5<VYA_O8VYK]z5lHllFA2
 R7
 32
-R8
+Z17 !s110 1622033730
 !i10b 1
-R9
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl|
-Z18 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl|
+Z18 !s108 1622033730.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl|
+Z20 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/GenImm32/GenImm32.vhdl|
 !i113 1
 R12
 R13
@@ -80,39 +80,39 @@ R1
 R2
 R3
 DEx4 work 8 genimm32 0 22 Vk<5h^Gjj:GIZJbcN0d^W0
-!i122 4389
+!i122 4610
 l17
 L12 39
 VA?]KbKD3RVgJHRMaGT:zK2
 !s100 U97jCZjERD7Hbk5n96dlg2
 R7
 32
-R8
-!i10b 1
-R9
 R17
+!i10b 1
 R18
+R19
+R20
 !i113 1
 R12
 R13
 Emd
-Z19 w1621949480
+Z21 w1621949480
 R1
 R2
 R3
-!i122 4376
+!i122 4597
 R4
-Z20 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
-Z21 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
+Z22 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
+Z23 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl
 l0
 L7 1
 VEadPd3LD8Chd;^A0>]X:c3
 !s100 a_CHgakB4Ol=ilLXCf`M40
 R7
 33
-Z22 !s110 1621972061
+R8
 !i10b 1
-Z23 !s108 1621972061.000000
+R9
 Z24 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl|
 Z25 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MD.vhdl|
 !i113 1
@@ -123,16 +123,16 @@ R1
 R2
 R3
 DEx4 work 2 md 0 22 EadPd3LD8Chd;^A0>]X:c3
-!i122 4376
+!i122 4597
 l26
 L18 76
 Vl9OiS@I:eh<emY]EzUnA40
 !s100 D1<U=LDVhh04`1Z`ZY]?>1
 R7
 33
-R22
+R8
 !i10b 1
-R23
+R9
 R24
 R25
 !i113 1
@@ -186,7 +186,7 @@ Z34 w1621946909
 R1
 R2
 R3
-!i122 4377
+!i122 4598
 R4
 Z35 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
 Z36 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl
@@ -196,9 +196,9 @@ VhDX5k^@mWKTOT;Ma?ggc13
 !s100 =`bjGaQaXTlVG3FA;2JU:1
 R7
 33
-R22
+R8
 !i10b 1
-R23
+R9
 Z37 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl|
 Z38 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/Mem/MI.vhdl|
 !i113 1
@@ -209,16 +209,16 @@ R1
 R2
 R3
 DEx4 work 2 mi 0 22 hDX5k^@mWKTOT;Ma?ggc13
-!i122 4377
+!i122 4598
 l20
 L14 42
 VOe1`E7G=hbo^;n7b>Bbih2
 !s100 YK42]nWc^LEO8Y`gJ]kMo0
 R7
 33
-R22
+R8
 !i10b 1
-R23
+R9
 R37
 R38
 !i113 1
@@ -229,7 +229,7 @@ Z39 w1621722503
 R1
 R2
 R3
-!i122 4378
+!i122 4599
 R4
 Z40 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl
 Z41 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl
@@ -239,9 +239,9 @@ VdWWW9B5^a;T8b937Woj7U0
 !s100 o;Gof0L4hB_]H0<Ei;OP>3
 R7
 32
-R22
+R8
 !i10b 1
-R23
+R9
 Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl|
 Z43 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1.vhdl|
 !i113 1
@@ -252,16 +252,16 @@ R1
 R2
 R3
 DEx4 work 10 mux_2_to_1 0 22 dWWW9B5^a;T8b937Woj7U0
-!i122 4378
+!i122 4599
 l15
 L14 11
 V?;FDd<PH<XNbEm8DTfT[H2
 !s100 jXGdT0=@>=^[>?ADgXfWM3
 R7
 32
-R22
+R8
 !i10b 1
-R23
+R9
 R42
 R43
 !i113 1
@@ -272,7 +272,7 @@ Z44 w1621723063
 R1
 R2
 R3
-!i122 4386
+!i122 4607
 R4
 Z45 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1_tb.vhdl
 Z46 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1_tb.vhdl
@@ -282,7 +282,7 @@ VgcOIKDCDUj3kSb_ZWjRL[1
 !s100 `e47^[fA]Df>?XZh3N7ai3
 R7
 32
-R8
+R17
 !i10b 1
 R9
 Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/MUX/MUX_2_to_1_tb.vhdl|
@@ -295,14 +295,14 @@ R1
 R2
 R3
 DEx4 work 13 mux_2_to_1_tb 0 22 gcOIKDCDUj3kSb_ZWjRL[1
-!i122 4386
+!i122 4607
 l22
 L8 42
 VFbA5cBNm_@NDYG7UK6T0T2
 !s100 SbCgJ:cjCjn>gBO[C4clf1
 R7
 32
-R8
+R17
 !i10b 1
 R9
 R47
@@ -315,7 +315,7 @@ Z49 w1621947008
 R1
 R2
 R3
-!i122 4379
+!i122 4600
 R4
 Z50 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl
 Z51 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl
@@ -327,7 +327,7 @@ R7
 32
 R8
 !i10b 1
-R23
+R9
 Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl|
 Z53 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC.vhdl|
 !i113 1
@@ -338,7 +338,7 @@ R1
 R2
 R3
 DEx4 work 2 pc 0 22 ^GbbU?AQVcJ:l8TRSc:8T1
-!i122 4379
+!i122 4600
 l16
 L14 21
 VNcD;6]@?SSLD2ONeNbnB01
@@ -347,7 +347,7 @@ R7
 32
 R8
 !i10b 1
-R23
+R9
 R52
 R53
 !i113 1
@@ -358,7 +358,7 @@ Z54 w1621723075
 R1
 R2
 R3
-!i122 4385
+!i122 4606
 R4
 Z55 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC_tb.vhdl
 Z56 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/PC/PC_tb.vhdl
@@ -381,7 +381,7 @@ R1
 R2
 R3
 DEx4 work 5 pc_tb 0 22 F1LLYm12znCk[4Q1X2EJ60
-!i122 4385
+!i122 4606
 l23
 L8 43
 V?jM4BO7:kBMEnFzeZ:?_W1
@@ -397,12 +397,12 @@ R58
 R12
 R13
 Eriscv
-Z59 w1621943584
-Z60 DPx4 work 16 riscv_components 0 22 H:[zFV?@_^=G64R<@9F@S2
+Z59 w1622033424
+Z60 DPx4 work 16 riscv_components 0 22 [mO>]T1zG3d@A_l<eM0SW1
 R1
 R2
 R3
-!i122 4390
+!i122 4611
 R4
 Z61 8/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
 Z62 F/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl
@@ -412,9 +412,9 @@ VFlhL3ljK5oGfzcYW@_TJ_0
 !s100 EhZUbo_SAbnkoTYZ0g0IN3
 R7
 32
-R8
+R17
 !i10b 1
-R9
+R18
 Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl|
 Z64 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/riscv.vhdl|
 !i113 1
@@ -426,16 +426,16 @@ R1
 R2
 R3
 DEx4 work 5 riscv 0 22 FlhL3ljK5oGfzcYW@_TJ_0
-!i122 4390
-l40
-L14 132
-Vg>d3n__W0HK[fjcIY`>gj1
-!s100 Sg5ciR5C_o^bY;2Bi_TOR2
+!i122 4611
+l43
+L14 155
+V`1j>8N4YMR6;n6c2oEH>l3
+!s100 a9P_5z3>hZjUYU29:U8711
 R7
 32
-R8
+R17
 !i10b 1
-R9
+R18
 R63
 R64
 !i113 1
@@ -445,15 +445,15 @@ Priscv_components
 R1
 R2
 R3
-!i122 4383
-w1621794069
+!i122 4604
+w1621974621
 R4
 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl
 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/riscv_components.vhdl
 l0
 L5 1
-VH:[zFV?@_^=G64R<@9F@S2
-!s100 6X`8k`6cn=F<dTj`UFZZM3
+V[mO>]T1zG3d@A_l<eM0SW1
+!s100 ckCo[Jz<BRcgaU_4l@TYn0
 R7
 32
 R8
@@ -465,11 +465,11 @@ R9
 R12
 R13
 Eriscv_tb
-Z65 w1621972054
+Z65 w1622033724
 R1
 R2
 R3
-!i122 4391
+!i122 4612
 R4
 Z66 8/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl
 Z67 F/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl
@@ -479,11 +479,11 @@ V>0_o:iQLBn_K88QIGFLoU1
 !s100 gdNQ^[zaMkW?<MUM0eU`02
 R7
 32
-Z68 !s110 1621972063
+R17
 !i10b 1
-R9
-Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl|
-Z70 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl|
+R18
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl|
+Z69 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/riscv/tb_riscv.vhdl|
 !i113 1
 R12
 R13
@@ -492,30 +492,30 @@ R1
 R2
 R3
 DEx4 work 8 riscv_tb 0 22 >0_o:iQLBn_K88QIGFLoU1
-!i122 4391
+!i122 4612
 l19
 L9 24
-V`GOOFS>IFeW6Q:BE^e6[`1
-!s100 cBJM<E?z9z46DhUSEjH?T2
+VMjlGQGdS;lkY<@NPO__e80
+!s100 hgLLC>[Kb1SM5Gk=`akJh0
 R7
 32
-R68
+R17
 !i10b 1
-R9
+R18
+R68
 R69
-R70
 !i113 1
 R12
 R13
 Esum
-Z71 w1621724310
+Z70 w1621724310
 R1
 R2
 R3
-!i122 4380
+!i122 4601
 R4
-Z72 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
-Z73 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
+Z71 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
+Z72 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl
 l0
 L5 1
 VeFA`Xc4^3ZW`JNAglUj`N1
@@ -525,8 +525,8 @@ R7
 R8
 !i10b 1
 R9
-Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl|
-Z75 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl|
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl|
+Z74 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM.vhdl|
 !i113 1
 R12
 R13
@@ -535,7 +535,7 @@ R1
 R2
 R3
 DEx4 work 3 sum 0 22 eFA`Xc4^3ZW`JNAglUj`N1
-!i122 4380
+!i122 4601
 l16
 L13 15
 V<Edd0Hm0aVO1PHTH^9=RR3
@@ -545,31 +545,31 @@ R7
 R8
 !i10b 1
 R9
+R73
 R74
-R75
 !i113 1
 R12
 R13
 Esum_tb
-Z76 w1621724074
+Z75 w1621724074
 R1
 R2
 R3
-!i122 4387
+!i122 4608
 R4
-Z77 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl
-Z78 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl
+Z76 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl
+Z77 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl
 l0
 L5 1
 VaalzFAb27z69<<J5N>9JS0
 !s100 g9d:<k9;LdUKLQ5PHVoO43
 R7
 32
-R8
+R17
 !i10b 1
-R9
-Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl|
-Z80 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl|
+R18
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl|
+Z79 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/SUM/SUM_tb.vhdl|
 !i113 1
 R12
 R13
@@ -578,30 +578,30 @@ R1
 R2
 R3
 DEx4 work 6 sum_tb 0 22 aalzFAb27z69<<J5N>9JS0
-!i122 4387
+!i122 4608
 l20
 L8 35
 Vg=@bXeZKZAdACb8IPF2FL3
 !s100 UW_NVWR?PBYn5Rkmjgof@3
 R7
 32
-R8
+R17
 !i10b 1
-R9
+R18
+R78
 R79
-R80
 !i113 1
 R12
 R13
 Eula
-Z81 w1621694154
+Z80 w1622032123
 R1
 R2
 R3
-!i122 4381
+!i122 4602
 R4
-Z82 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
-Z83 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
+Z81 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
+Z82 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl
 l0
 L5 1
 VLjFGF6VfFc;fn?ZeKUlB31
@@ -611,8 +611,8 @@ R7
 R8
 !i10b 1
 R9
-Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl|
-Z85 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl|
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl|
+Z84 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULA/ULA.vhdl|
 !i113 1
 R12
 R13
@@ -621,7 +621,7 @@ R1
 R2
 R3
 DEx4 work 3 ula 0 22 LjFGF6VfFc;fn?ZeKUlB31
-!i122 4381
+!i122 4602
 l17
 L15 84
 VIAi;eO8;SnL4gG_`kzAVm2
@@ -631,31 +631,31 @@ R7
 R8
 !i10b 1
 R9
+R83
 R84
-R85
 !i113 1
 R12
 R13
 Eulacontrol
-Z86 w1621971816
+Z85 w1621971816
 R1
 R2
 R3
-!i122 4392
+!i122 4613
 R4
-Z87 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl
-Z88 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl
+Z86 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl
+Z87 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl
 l0
 L5 1
 VXc;K_>@Wc0@<d;Ql]NA1N1
 !s100 ;5A[>zZXH@V3U2TUWH5JN2
 R7
 32
-R68
+R17
 !i10b 1
-Z89 !s108 1621972063.000000
-Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl|
-Z91 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl|
+R18
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl|
+Z89 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/ULAControl/ULAControl.vhdl|
 !i113 1
 R12
 R13
@@ -663,31 +663,31 @@ Artl
 R1
 R2
 R3
-Z92 DEx4 work 10 ulacontrol 0 22 Xc;K_>@Wc0@<d;Ql]NA1N1
-!i122 4392
+Z90 DEx4 work 10 ulacontrol 0 22 Xc;K_>@Wc0@<d;Ql]NA1N1
+!i122 4613
 l15
-Z93 L14 44
-Z94 V=`IiGl5KE7=kLhDbj4XAe2
-Z95 !s100 UJYZ9R19A0Ho1Plc]@<`F2
+Z91 L14 44
+Z92 V=`IiGl5KE7=kLhDbj4XAe2
+Z93 !s100 UJYZ9R19A0Ho1Plc]@<`F2
 R7
 32
-R68
+R17
 !i10b 1
+R18
+R88
 R89
-R90
-R91
 !i113 1
 R12
 R13
 Exreg
-Z96 w1621949209
+Z94 w1621949209
 R1
 R2
 R3
-!i122 4382
+!i122 4603
 R4
-Z97 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
-Z98 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
+Z95 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
+Z96 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl
 l0
 L5 1
 Vk2QI[IHmD;oH70lzIcS<33
@@ -697,8 +697,8 @@ R7
 R8
 !i10b 1
 R9
-Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl|
-Z100 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl|
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl|
+Z98 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG.vhdl|
 !i113 1
 R12
 R13
@@ -707,7 +707,7 @@ R1
 R2
 R3
 DEx4 work 4 xreg 0 22 k2QI[IHmD;oH70lzIcS<33
-!i122 4382
+!i122 4603
 l22
 L18 32
 V4^ahmFiHTJOd1AjaZ8Vbe2
@@ -717,31 +717,31 @@ R7
 R8
 !i10b 1
 R9
-R99
-R100
+R97
+R98
 !i113 1
 R12
 R13
 Exreg_tb
-Z101 w1621738094
+Z99 w1621738094
 R1
 R2
 R3
-!i122 4388
+!i122 4609
 R4
-Z102 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl
-Z103 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl
+Z100 8/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl
+Z101 F/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl
 l0
 L5 1
 VN;RVfIoYBZUKJ>k<6Y26g0
 !s100 78KI^Mg7`GG466oN7N0aA2
 R7
 32
-R8
+R17
 !i10b 1
-R9
-Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl|
-Z105 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl|
+R18
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl|
+Z103 !s107 /home/ratchet/Documents/prog/riscv-uniciclo/src/components/XREG/XREG_tb.vhdl|
 !i113 1
 R12
 R13
@@ -750,18 +750,18 @@ R1
 R2
 R3
 DEx4 work 7 xreg_tb 0 22 N;RVfIoYBZUKJ>k<6Y26g0
-!i122 4388
+!i122 4609
 l30
 L8 62
 Vl4ei5oH2F[GI:M;ajSZEg1
 !s100 foBZU9Hd5A[lGRQR^_i=l3
 R7
 32
-R8
+R17
 !i10b 1
-R9
-R104
-R105
+R18
+R102
+R103
 !i113 1
 R12
 R13
