@@ -1,6 +1,6 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
-use ieee.numeric_std.all;
+use IEEE.numeric_std.all;
 
 entity ULA is
   generic (WSIZE : natural := 32);
@@ -36,7 +36,7 @@ begin
       when "0110" => 
         Zsigned <= Asigned srl to_integer(Bsigned);
       when "0111" => 
-        Zsigned <= signed (to_stdlogicvector(to_bitvector(std_logic_vector(Asigned)) sra to_integer(Bsigned)));
+        Zsigned <= shift_right(Asigned, to_integer(Bsigned));
       when "1000" => 
         if(Asigned < Bsigned)
         then

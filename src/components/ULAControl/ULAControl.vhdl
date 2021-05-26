@@ -15,8 +15,15 @@ architecture RTL of ULAControl is
 begin
   process(funct7, funct3, aluop) begin
     case aluop is
-      when "00" => aluctr <= "0000"; -- soma
-      when "01" => aluctr <= "0001"; -- subtração
+      when "00" => aluctr <= "0000"; 
+      when "01" => -- B Type
+        case funct3 is
+          when "000" => aluctr <= "1101"; --beq
+          when "001" => aluctr <= "1100"; --bne
+          when "100" => aluctr <= "1010"; --blt
+          when "101" => aluctr <= "1000"; --bge
+          when others => aluctr <= "0001";
+        end case;
       when "10" => -- R Type
         case funct3 is
           when "000" => 

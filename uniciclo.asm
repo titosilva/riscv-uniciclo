@@ -15,7 +15,7 @@ vetx:	.word 15 63
 	lw   s1, 0(s0)      		# 0000000c  00042483   00002000  0000000f OK
 	lw   s2, 4(s0)      		# 00000010  00442903   00002004  0000003f OK
 	add  s3, s1, s2     		# 00000014  012489b3   0000004e  00000000 OK
-	sw   s3, 8(s0)      		# 00000018  01342423   00002008  0000004e -> Verificar MD
+	sw   s3, 8(s0)      		# 00000018  01342423   00002008  0000004e OK
 	lw   a0, 8(s0)      		# 0000001c  00842503   00002008  0000004e OK
 	addi s4, zero, 0x7F0    # 00000020  7f000a13   000007f0  00000000 OK
 	addi s5, zero, 0x0FF    # 00000024  0ff00a93   000000ff  00000000 OK
@@ -31,20 +31,20 @@ vetx:	.word 15 63
 	sltu s3, zero, t0       # 0000004c  005039b3   00000001  00000000 OK
 	sltu s4, t0, zero       # 00000050  0002ba33   00000000  00000000 OK
 	
-	jal  ra, testasub       # 00000054  008000ef   00000000  00000000 => 5c -> Algum problema com imediatos deslocados. Retirei o shift. OK!
+	jal  ra, testasub       # 00000054  008000ef   00000000  00000000 => 5c -> Verificar saida da ULA. JUMP
 
-	jal  x0, next           # 00000058  00c0006f   00000000  00000000 => 64 OK!
+	jal  x0, next           # 00000058  00c0006f   00000000  00000000 => 64 JUMP OK!
 testasub:
-	sub t3, t0, t1          # 0000005c  40628e33   fffffffe  00000000 -> Verificar saida da ULA
-	jalr x0, ra, 0          # 00000060  00008067   00000058  00000000 => 58 OK!
+	sub t3, t0, t1          # 0000005c  40628e33   fffffffe  00000000 -> Aparentemente, essa linha tem um erro. O RARS resulta em fffff100. OK!
+	jalr x0, ra, 0          # 00000060  00008067   00000058  00000000 => 58 JUMP OK!
 next:
 	addi t0, zero, -2       # 00000064  ffe00293   fffffffe  00000000 OK!
 beqsim: 
 	addi t0, t0, 2          # 00000068  00228293   0000000*  00000000 * t0 = 0(OK), 2(OK)
-	beq  t0, zero, beqsim   # 0000006c  fe028ee3   00000000  00000000 => 68(OK), 70(OK)
+	beq  t0, zero, beqsim   # 0000006c  fe028ee3   00000000  00000000 => 68(JUMP OK!), 70(JUMP OK!) -> Obs.: Aqui, na segunda execução, o resultado da ULA n e zero
 bnesim:
-	addi t0, t0, -1         # 00000070  fff28293   0000000*  00000000 * t0 = 1(OK), 0
-	bne  t0, zero, bnesim   # 00000074  fe029ee3   00000000  00000000 => 70, 78 -> Falhou
+	addi t0, t0, -1         # 00000070  fff28293   0000000*  00000000 * t0 = 1(OK), 0(OK)
+	bne  t0, zero, bnesim   # 00000074  fe029ee3   00000000  00000000 => 70(OK), 78(OK)
 	
 	
 	
