@@ -35,7 +35,6 @@ architecture RTL of riscv is
   signal PC_SUM_4Result: std_logic_vector(31 downto 0);
   signal PC_SUM_SHIFTResult: std_logic_vector(31 downto 0);
   signal branchAndULAZero: std_logic;
-  signal imm32shifted: std_logic_vector(31 downto 0);
   signal is_jalx : std_logic;
   signal is_jalr : std_logic;
   signal writeBackData: std_logic_vector(31 downto 0);
@@ -141,11 +140,6 @@ begin
     selector => branchAndULAZero,
     dataout => PC_dataIn
   );
-
-  imm32shift_proc: process(imm32)
-  begin
-    imm32shifted <= std_logic_vector(shift_left(signed(imm32), 1));
-  end process imm32shift_proc;
 
   -- JAL e JALR ---------------------------------------------------
   -- Seleciona a entrada para o banco de registradores
