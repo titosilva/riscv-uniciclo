@@ -1,0 +1,10 @@
+# Onde está o código? 
+O código se encontra na pasta src. Os componentes estão em src/components, e a entidade que representa o RISC-V completo está em src/riscv.
+
+# Como usar?
+Caso você queira substituir o código executado, gere os arquivos pelo RARS. 
+Primeiramente, as instruções em hexadecimal devem ser salvas em "uniciclo_hex.txt".
+Após isto, a memória de dados deve ser salva em "uniciclo_data_hex.txt" em formato hexadecimal
+
+# Como executar? 
+Para executar, abra o projeto no ModelSim e simule o testbench "riscv_tb".
